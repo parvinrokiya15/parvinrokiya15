@@ -6,7 +6,7 @@
 * 🌱 I’m currently learning Power BI
 * 👯 I’m looking to collaborate on Data analyst
 * 💬 Ask me about ...
-* 📫 How to reach me: parvin.rokiya15@gmail.com](mailto:parvin.rokiya15@gmail.com)
+* 📫 How to reach me: (mailto:parvin.rokiya15@gmail.com)
 * ⚡ Fun fact: ...
 
 ---
