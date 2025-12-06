@@ -2,7 +2,7 @@
 
 ### A passionate Data analyst from Bhubaneswar
 
-* 🔭 I’m currently working on github ( learning from skillup online )
+* 🔭 I’m currently working on Tata Consultancy Service Limited
 * 🌱 I’m currently learning Power BI
 * 👯 I’m looking to collaborate on Data analyst
 * 💬 Ask me about ...
